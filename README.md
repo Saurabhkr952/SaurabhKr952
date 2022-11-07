@@ -3,7 +3,7 @@
 
 I'm Saurabh</h1>
 **Persuing BCA || 2nd year
-Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.
+Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.**
 
 ### DevOps Techstack 
 
