@@ -16,7 +16,7 @@ I'm Saurabh</h1>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="70" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="70" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  
-  
+<img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="aw" />
 </div>
 
 
