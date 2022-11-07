@@ -3,7 +3,7 @@
 
 I'm Saurabh</h1>
 
-### DevOps Techstack That I Learned
+### DevOps Techstack 
 
 <div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
