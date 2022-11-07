@@ -7,7 +7,7 @@ I'm Saurabh</h1>
 - 🌱 I’m currently learning DevOps Tools(Doing hands on)
 - 🏫 Persuing B.C.A (Bachelor in Computer Application) || 2nd year
 - 👯 Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.
-- 📫 You can reach me at: <a href="saurabhkr952@gmail.com">aakarshissa@gmail.com</a>
+- 📫 You can reach me at: <a href="saurabhkr952@gmail.com">saurabhkr952@gmail.com</a>
 - 💭 
 
 ### DevOps Techstack 
