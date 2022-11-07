@@ -16,7 +16,7 @@ I'm Saurabh</h1>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="70" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="70" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  
-<img style="margin: 10px" src="https://blog.filador.fr/content/images/2020/12/argocd-logo.png" alt="aw" height="70" />
+<img style="margin: 10px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" alt="aw" height="70" />
 </div>
 
 
