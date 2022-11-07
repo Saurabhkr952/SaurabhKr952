@@ -12,11 +12,11 @@ I'm Saurabh</h1>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="70" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="70" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="70" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="70" />      
+<img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="AWS" height="70" />      
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="70" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="70" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  
-<img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="aw" height="70" />
+<img style="margin: 10px" src="https://blog.filador.fr/content/images/2020/12/argocd-logo.png" alt="aw" height="70" />
 </div>
 
 
