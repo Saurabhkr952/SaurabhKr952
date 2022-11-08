@@ -20,7 +20,7 @@ I'm Saurabh</h1>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="60" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="60" />  
 <img style="margin: 10px" src="https://www.hava.io/hs-fs/hubfs/AWS_400x300_Trans.png?width=500&name=AWS_400x300_Trans.png" alt="AWS" height="60" />      
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="60" />  
+<img style="margin: 10px" src="https://media.trustradius.com/product-logos/ai/vQ/ATKTZ7HRC8TF.PNG" alt="Ansible" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="60" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  
 <img style="margin: 10px" src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" alt="Argo CD" height="60" />
