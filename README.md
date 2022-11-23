@@ -7,7 +7,7 @@ I'm Saurabh</h1>
 ### About Me🤓
 
 - 🌱 I’m currently learning DevOps Tools(Doing hands on)
-- 🏫 Persuing B.C.A (Bachelor in Computer Application) || 2nd year
+- 🏫 Persuing Bachelor in Computer Application (B.C.A) || 2nd year
 - 📫 You can reach me at: <a href="saurabhkr952@gmail.com">saurabhkr952@gmail.com</a>
 - 💭 
 
