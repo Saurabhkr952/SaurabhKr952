@@ -2,11 +2,11 @@
  
 
 I'm Saurabh</h1>
-<h3 align="left">Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.</h3>
+<h3 align="left">Proficient in DevOps, Cloud & SDLC including scripting, testing, automation, version control.</h3>
 
 ### About Me🤓
 
-- 🌱 I’m currently learning DevOps Tools(Doing hands on)
+- 🌱 Cloud DevOps enthusiast who loves to integrate different tools to solve challenges
 - 🏫 Persuing Bachelor in Computer Application (B.C.A) || 2nd year
 - 📫 You can reach me at: <a href="saurabhkr952@gmail.com">saurabhkr952@gmail.com</a>
 
