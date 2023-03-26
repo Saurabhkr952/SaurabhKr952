@@ -2,11 +2,10 @@
  
 
 I'm Saurabh</h1>
-<h3 align="left">DevOps enthusiast who loves to integrate different tools to solve challenges.</h3>
+<h3 align="left"> Cloud DevOps enthusiast who loves to integrate different tools to solve challenges.</h3>
 
 ### About Me🤓
 
-- 🌱 Cloud DevOps enthusiast who loves to integrate different tools to solve challenges
 - 🏫 Persuing Bachelor in Computer Application (B.C.A) || 2nd year
 - 📫 You can reach me at: <a href="saurabhkr952@gmail.com">saurabhkr952@gmail.com</a>
 
