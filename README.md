@@ -2,7 +2,7 @@
  
 
 I'm Saurabh</h1>
-<h3 align="left">Proficient in DevOps, Cloud & SDLC including scripting, testing, automation, version control.</h3>
+<h3 align="left">DevOps enthusiast who loves to integrate different tools to solve challenges.</h3>
 
 ### About Me🤓
 
