@@ -6,7 +6,7 @@ I'm Saurabh</h1>
 
 ### About Me🤓
 
-- 🏫 Persuing Bachelor in Computer Application (B.C.A) || 2nd year
+- 🏫 Persuing Bachelor in Computer Application (B.C.A) || 3nd year
 - 📫 You can reach me at: <a href="saurabhkr952@gmail.com">saurabhkr952@gmail.com</a>
 
 ### DevOps Techstack 
