@@ -19,7 +19,7 @@ I'm Saurabh</h1>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="60" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="60" />  
 <img style="margin: 10px" src="https://lavca.org/app/uploads/2019/10/aws-logo-square.png" alt="AWS" height="60" />      
-<img style="margin: 10px" src="https://www.pngfind.com/pngs/m/536-5365878_microsoft-azure-final-microsoft-corporation-hd-png-download.png" alt="AZURE" height="60" />  
+<img style="margin: 10px" src="https://www.pngfind.com/pngs/m/597-5975946_microsoft-azure-logo-svg-hd-png-download.png" alt="AZURE" height="60" />  
 <img style="margin: 10px" src="https://media.trustradius.com/product-logos/ai/vQ/ATKTZ7HRC8TF.PNG" alt="Ansible" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="60" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  
