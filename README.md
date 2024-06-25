@@ -9,12 +9,13 @@ I'm Saurabh<div align="right">
 
 
 
-<h3 align="left"> I'm a DevOps Engineer with expertise in modern DevOps practices, Agile methodologies, and SDLC. Currently, I'm a final-year Bachelor's student, continuously learning and making open-source contributions to enhance software delivery pipelines.</h3> 
+<h3 align="left"> I'm a DevOps Engineer with expertise in modern DevOps practices, Agile methodologies, and SDLC. Continuously learning and making open-source contributions to enhance software delivery pipelines.</h3> 
 
+<img align='right' src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150">
 
 ### About Me 🤓
 
-- 🎓 I'm a final-year Bachelor's student pursuing a degree in Computer Application (B.C.A).
+- 🎓 Recent recent graduate with a passion for DevOps and Cloud.
 - 📫 Feel free to reach out to me at [saurabhkr952@gmail.com](mailto:saurabhkr952@gmail.com) for collaboration, discussions, or inquiries.
 - 🔍 Constantly exploring tools to enhance software delivery in the fast-paced DevOps world.
 
@@ -41,36 +42,6 @@ I'm Saurabh<div align="right">
 ### GitHub Metrics 📊
 ![Metrics](https://metrics.lecoq.io/saurabhkr952?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
 
-
-### Here are some of the projects I've worked on:
-
-**[Book-Store-MERN-Stack](https://github.com/saurabhkr952/Book-Store-MERN-Stack)**
-- MERN Stack deployment on Kubernetes with GitOps & CI/CD.
-- Tools: MongoDB, Docker, GitHub Actions, Argo CD, Kubernetes
-
-**[dev-portfolio](https://github.com/saurabhkr952/dev-portfolio)**
-- Orchestrated Secure and Scalable Amazon EKS Cluster with Terraform, CI/CD, Slack, Prometheus, Grafana, and Kubecost.
-- Tools: Node.js, GitHub, Trivy, Docker, GitHub Actions, AWS, Terraform, Argo CD, AWS EKS, Prometheus, Grafana, Slack, Kubecost
-
-**[counter-demo-app](https://github.com/Saurabhkr952/counter-app-demo)**
-- Robust CI/CD Pipeline with Jenkins for Java-based application using Maven, SonarQube, Argo CD, Helm, and Kubernetes.
-- Tools: Jenkins, Maven, JUnit 5, Docker, Slack, Helm, GitHub, Argo CD, Kubernetes, SonarQube
-
-**[Budget-App](https://github.com/Saurabhkr952/Budget-App)**
-- Stateful Ruby on Rails Apps Deployment on Kubernetes with GitOps.
-- Tools: Ruby, PostgreSQL, GitHub, Docker, GitHub Actions, Argo CD, Kubernetes
-
-**[personal-portfolio](https://github.com/saurabhkr952/my-portfolio)**
-- Building Scalable and Reliable Applications with Jenkins, Node/React, Argo CD, and EKS.
-- Tools: Node.js, GitHub, Docker, Jenkins, Argo CD, AWS EKS
-
-**[aws-automation-scripts](https://github.com/Saurabhkr952/python-automation-scripts)**
-- AWS Resource Automation with Python scripts.
-- Tools: Python, AWS
-
-**[WordPress Application on AWS (wip)](https://github.com/Saurabhkr952/Wordpress-Application-on-AWS)**
-- Setting up a WordPress application on AWS using modern DevOps tools and practices to ensure scalability, efficiency, and reliability.
-- Tools: AWS, Terraform, Ansible
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
