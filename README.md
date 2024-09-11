@@ -9,15 +9,16 @@ I'm Saurabh<div align="right">
 
 
 
-<h3 align="left"> I'm a DevOps Engineer with expertise in modern DevOps practices, Agile methodologies, and SDLC. Continuously learning and making open-source contributions to enhance software delivery pipelines.</h3> 
-
-<img align='right' src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150">
+<h3 align="left">DevOps Engineer with a passion for streamlining software delivery, leveraging expertise in cloud infrastructure, CI/CD pipelines, and containerization to drive innovation and efficiency.</h3> 
 
 ### About Me 🤓
 
 - 🎓 Recent recent graduate with a passion for DevOps and Cloud.
+- 🏆 Certified as Certified Kubernetes Administrator (CKA) & GCP Associate Cloud Engineer
+ [credly-badge](https://www.credly.com/users/saurabhkr952)
+- 🔍 Constantly exploring tools to enhance software delivery in the fast-paced DevOps world. 
 - 📫 Feel free to reach out to me at [saurabhkr952@gmail.com](mailto:saurabhkr952@gmail.com) for collaboration, discussions, or inquiries.
-- 🔍 Constantly exploring tools to enhance software delivery in the fast-paced DevOps world.
+
 
 
 ### DevOps Techstack 
